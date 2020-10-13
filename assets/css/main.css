@@ -345,4 +345,9 @@ header {
   height: 100px;
   background-color: aqua;
 }
+
+footer {
+  height: 20vh;
+  background-color: red;
+}
 /*# sourceMappingURL=main.css.map */
